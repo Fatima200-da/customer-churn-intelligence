@@ -1,0 +1,11 @@
+Category,Segment,ChurnRate
+Contract,Month-to-month,42.71
+Contract,One year,11.27
+Contract,Two year,2.83
+Internet Service,DSL,18.96
+Internet Service,Fiber optic,41.89
+Internet Service,No,7.4
+Payment Method,Bank transfer (automatic),16.71
+Payment Method,Credit card (automatic),15.24
+Payment Method,Electronic check,45.29
+Payment Method,Mailed check,19.11
